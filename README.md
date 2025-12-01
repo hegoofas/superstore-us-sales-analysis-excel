@@ -32,4 +32,5 @@ This project involves comprehensive data analysis using Microsoft Excel to uncov
 ---
 
 👨‍💻 Project by: Ibrahim Abdulghfar
-🔗 LinkedIn Profile: [www.linkedin.com/in/ibrahim-abdulghfar-a0b13a364](https://www.linkedin.com/in/ibrahim-abdulghfar-a0b13a364)
+
+🔗 LinkedIn : https://www.linkedin.com/posts/ibrahim-abdulghfar-a0b13a364_excited-to-share-my-latest-data-analysis-activity-7346172210824249344-6pOH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFpuyCsBNij9rn_9jYrSPVjIHEViYJtJTQY
